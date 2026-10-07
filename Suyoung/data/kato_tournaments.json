@@ -1,0 +1,701 @@
+{
+  "source": "https://kato.kr/",
+  "fetched_at": "2026-10-07T16:49:51+00:00",
+  "listing_count": 18,
+  "events": [
+    {
+      "tournament": "제1회 위닝컵 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-09-15T09:00",
+      "venue": "화성 볼리테니스장 외",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0322"
+    },
+    {
+      "tournament": "제1회 위닝컵 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-09-16T09:00",
+      "venue": "화성 볼리테니스장 외",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0322"
+    },
+    {
+      "tournament": "제1회 위닝컵 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-09-19T09:00",
+      "venue": "화성 볼리테니스장 외",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0322"
+    },
+    {
+      "tournament": "제1회 위닝컵 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-09-20T09:00",
+      "venue": "화성 볼리테니스장 외",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0322"
+    },
+    {
+      "tournament": "제1회 위닝컵 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-10-09T09:00",
+      "venue": "화성 볼리테니스장 외",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0322"
+    },
+    {
+      "tournament": "제4회 서천군수배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-08T09:00",
+      "venue": "서천레포츠공원 테니스코트외 보조경기장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0314"
+    },
+    {
+      "tournament": "제4회 서천군수배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-09T09:00",
+      "venue": "서천레포츠공원 테니스코트외 보조경기장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0314"
+    },
+    {
+      "tournament": "제4회 서천군수배 전국동호인테니스대회",
+      "division": "혼합복식부",
+      "starts_at": "2026-10-10T09:00",
+      "venue": "서천레포츠공원 테니스코트외 보조경기장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0314"
+    },
+    {
+      "tournament": "제4회 서천군수배 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-10-11T09:00",
+      "venue": "서천레포츠공원 테니스코트외 보조경기장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0314"
+    },
+    {
+      "tournament": "제14회 임실N치즈배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-09T09:00",
+      "venue": "임실군생활체육공원테니스장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0315"
+    },
+    {
+      "tournament": "제14회 임실N치즈배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-10T09:00",
+      "venue": "임실군생활체육공원테니스장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0315"
+    },
+    {
+      "tournament": "제14회 임실N치즈배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-10-11T09:00",
+      "venue": "임실군생활체육공원테니스장",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0315"
+    },
+    {
+      "tournament": "제23회 서산시장배 서산6쪽마늘 전국동호인  테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-10-10T09:00",
+      "venue": "서산시 종합운동장  테니스장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0321"
+    },
+    {
+      "tournament": "제23회 서산시장배 서산6쪽마늘 전국동호인  테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-11T09:00",
+      "venue": "서산시 종합운동장  테니스장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0321"
+    },
+    {
+      "tournament": "제23회 서산시장배 서산6쪽마늘 전국동호인  테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-15T09:00",
+      "venue": "서산시 종합운동장  테니스장",
+      "registration_status": "접수마감",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0321"
+    },
+    {
+      "tournament": "제23회 서산시장배 서산6쪽마늘 전국동호인  테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-10-16T09:00",
+      "venue": "서산시 종합운동장  테니스장",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0321"
+    },
+    {
+      "tournament": "제23회 서산시장배 서산6쪽마늘 전국동호인  테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-10-17T09:00",
+      "venue": "서산시 종합운동장  테니스장",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0321"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-16T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-17T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-10-18T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-10-24T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-10-24T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "지도자부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "대회취소",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제4회 임금님표 이천쌀배 전국동호인테니스대회",
+      "division": "혼합복식부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "이천시 설봉공원 테니스코트외 보조코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0318"
+    },
+    {
+      "tournament": "제2회 청주시협회장배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-23T09:00",
+      "venue": "청주국제테니스코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0323"
+    },
+    {
+      "tournament": "제2회 청주시협회장배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-24T09:00",
+      "venue": "청주국제테니스코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0323"
+    },
+    {
+      "tournament": "제2회 청주시협회장배 전국동호인테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "청주국제테니스코트",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0323"
+    },
+    {
+      "tournament": "제15회 창원특례시 가고파 국화축제기념 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-24T09:00",
+      "venue": "창원시립테니스코트외",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0317"
+    },
+    {
+      "tournament": "제15회 창원특례시 가고파 국화축제기념 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-10-24T09:00",
+      "venue": "창원시립테니스코트외",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0317"
+    },
+    {
+      "tournament": "제15회 창원특례시 가고파 국화축제기념 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "창원시립테니스코트외",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0317"
+    },
+    {
+      "tournament": "제15회 창원특례시 가고파 국화축제기념 전국동호인테니스대회",
+      "division": "남자퓨처스부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "창원시립테니스코트외",
+      "registration_status": "접수중인 대회",
+      "listing_status": "접수중인 대회",
+      "source_url": "https://kato.kr/openGame/0317"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "지역 남자신인부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "지역 여자신인부",
+      "starts_at": "2026-10-25T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-28T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-10-29T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-10-31T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-11-01T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제27회 수원화성배 전국동호인테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-11-01T09:00",
+      "venue": "만석공원테니스장 외 보조구장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0309"
+    },
+    {
+      "tournament": "제20회 군산새만금배 전국동호인 테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-10-30T09:00",
+      "venue": "군산 월명테니스코트장 및 보조 경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0313"
+    },
+    {
+      "tournament": "제20회 군산새만금배 전국동호인 테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-10-31T09:00",
+      "venue": "군산 월명테니스코트장 및 보조 경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0313"
+    },
+    {
+      "tournament": "제20회 군산새만금배 전국동호인 테니스대회",
+      "division": "지도자부",
+      "starts_at": "2026-10-31T01:00",
+      "venue": "군산 월명테니스코트장 및 보조 경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0313"
+    },
+    {
+      "tournament": "제20회 군산새만금배 전국동호인 테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-01T09:00",
+      "venue": "군산 월명테니스코트장 및 보조 경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0313"
+    },
+    {
+      "tournament": "2026 ITF W100 인천오픈 닥터후시카컵 국제여자테니스투어대회 기념 전국 동호인  테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-10-31T09:00",
+      "venue": "열우물경기장, 가좌테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0331"
+    },
+    {
+      "tournament": "2026 ITF W100 인천오픈 닥터후시카컵 국제여자테니스투어대회 기념 전국 동호인  테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-01T09:00",
+      "venue": "열우물경기장, 가좌테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0331"
+    },
+    {
+      "tournament": "2026 ITF W100 인천오픈 닥터후시카컵 국제여자테니스투어대회 기념 전국 동호인  테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-02T09:00",
+      "venue": "열우물경기장, 가좌테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0331"
+    },
+    {
+      "tournament": "2026 ITF W100 인천오픈 닥터후시카컵 국제여자테니스투어대회 기념 전국 동호인  테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-03T09:00",
+      "venue": "열우물경기장, 가좌테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0331"
+    },
+    {
+      "tournament": "제20회 김포금쌀배 전국동호인 테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-05T09:00",
+      "venue": "김포시 솔터실내테니스장 및 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0325"
+    },
+    {
+      "tournament": "제20회 김포금쌀배 전국동호인 테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-11-06T09:00",
+      "venue": "김포시 솔터실내테니스장 및 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0325"
+    },
+    {
+      "tournament": "제20회 김포금쌀배 전국동호인 테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-07T09:00",
+      "venue": "김포시 솔터실내테니스장 및 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0325"
+    },
+    {
+      "tournament": "제20회 김포금쌀배 전국동호인 테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-11-08T09:00",
+      "venue": "김포시 솔터실내테니스장 및 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0325"
+    },
+    {
+      "tournament": "제20회 김포금쌀배 전국동호인 테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-11-08T09:00",
+      "venue": "김포시 솔터실내테니스장 및 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0325"
+    },
+    {
+      "tournament": "제14회 영동군체육회장배감고을 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-06T09:00",
+      "venue": "영동군실내테니스장, 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0326"
+    },
+    {
+      "tournament": "제14회 영동군체육회장배감고을 전국동호인테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-11-07T09:00",
+      "venue": "영동군실내테니스장, 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0326"
+    },
+    {
+      "tournament": "제14회 영동군체육회장배감고을 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-08T09:00",
+      "venue": "영동군실내테니스장, 보조경기장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0326"
+    },
+    {
+      "tournament": "제10회 세울배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-06T09:00",
+      "venue": "순천팔마코트: 개나리부/국화부(11.6일),  충주탄금대코트:개나리부(12일)국화부(13일)챌린저부(14일)마스터스부(15일)",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0329"
+    },
+    {
+      "tournament": "제10회 세울배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-11-06T09:00",
+      "venue": "순천팔마코트: 개나리부/국화부(11.6일),  충주탄금대코트:개나리부(12일)국화부(13일)챌린저부(14일)마스터스부(15일)",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0329"
+    },
+    {
+      "tournament": "제10회 세울배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-12T09:00",
+      "venue": "순천팔마코트: 개나리부/국화부(11.6일),  충주탄금대코트:개나리부(12일)국화부(13일)챌린저부(14일)마스터스부(15일)",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0329"
+    },
+    {
+      "tournament": "제10회 세울배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-11-13T09:00",
+      "venue": "순천팔마코트: 개나리부/국화부(11.6일),  충주탄금대코트:개나리부(12일)국화부(13일)챌린저부(14일)마스터스부(15일)",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0329"
+    },
+    {
+      "tournament": "제10회 세울배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-14T09:00",
+      "venue": "순천팔마코트: 개나리부/국화부(11.6일),  충주탄금대코트:개나리부(12일)국화부(13일)챌린저부(14일)마스터스부(15일)",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0329"
+    },
+    {
+      "tournament": "제10회 세울배 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-11-15T09:00",
+      "venue": "순천팔마코트: 개나리부/국화부(11.6일),  충주탄금대코트:개나리부(12일)국화부(13일)챌린저부(14일)마스터스부(15일)",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0329"
+    },
+    {
+      "tournament": "제15회 홍성명품한우배 전국동호인 테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-07T09:00",
+      "venue": "홍주종합경기장내 테니스장 및 광천생활체육공원 테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0328"
+    },
+    {
+      "tournament": "제15회 홍성명품한우배 전국동호인 테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-11-08T09:00",
+      "venue": "홍주종합경기장내 테니스장 및 광천생활체육공원 테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0328"
+    },
+    {
+      "tournament": "제15회 홍성명품한우배 전국동호인 테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-11-14T09:00",
+      "venue": "홍주종합경기장내 테니스장 및 광천생활체육공원 테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0328"
+    },
+    {
+      "tournament": "제15회 홍성명품한우배 전국동호인 테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-15T09:00",
+      "venue": "홍주종합경기장내 테니스장 및 광천생활체육공원 테니스장",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0328"
+    },
+    {
+      "tournament": "제3회 문경 에이스배 전국 동호인 테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-14T09:00",
+      "venue": "문경 영강테니스장, 문경국제정구장, 문경공고 등",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0324"
+    },
+    {
+      "tournament": "제3회 문경 에이스배 전국 동호인 테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-11-15T09:00",
+      "venue": "문경 영강테니스장, 문경국제정구장, 문경공고 등",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0324"
+    },
+    {
+      "tournament": "제3회 문경 에이스배 전국 동호인 테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-15T09:00",
+      "venue": "문경 영강테니스장, 문경국제정구장, 문경공고 등",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0324"
+    },
+    {
+      "tournament": "제23회 충주사과배 전국동호인테니스대회",
+      "division": "베테랑부",
+      "starts_at": "2026-11-21T09:00",
+      "venue": "충주탄금대테니스장외 보조코트",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0330"
+    },
+    {
+      "tournament": "제23회 충주사과배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-11-22T09:00",
+      "venue": "충주탄금대테니스장외 보조코트",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0330"
+    },
+    {
+      "tournament": "제23회 충주사과배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-23T09:00",
+      "venue": "충주탄금대테니스장외 보조코트",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0330"
+    },
+    {
+      "tournament": "안동 하회탈배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-21",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0332"
+    },
+    {
+      "tournament": "안동 하회탈배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-11-22T09:00",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0332"
+    },
+    {
+      "tournament": "안동 하회탈배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-11-22T09:00",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0332"
+    },
+    {
+      "tournament": "제5회 구미 금오산배 전국동호인테니스대회",
+      "division": "개나리부",
+      "starts_at": "2026-12-05T09:00",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0327"
+    },
+    {
+      "tournament": "제5회 구미 금오산배 전국동호인테니스대회",
+      "division": "마스터스부",
+      "starts_at": "2026-12-05T09:00",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0327"
+    },
+    {
+      "tournament": "제5회 구미 금오산배 전국동호인테니스대회",
+      "division": "챌린저부",
+      "starts_at": "2026-12-06T09:00",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0327"
+    },
+    {
+      "tournament": "제5회 구미 금오산배 전국동호인테니스대회",
+      "division": "국화부",
+      "starts_at": "2026-12-06T09:00",
+      "venue": ".",
+      "registration_status": "미기재",
+      "listing_status": "접수예정 대회",
+      "source_url": "https://kato.kr/openGame/0327"
+    }
+  ],
+  "errors": []
+}

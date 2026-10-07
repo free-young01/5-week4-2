@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+chromadb
+openai
+python-dotenv
+numpy
+pandas
+nltk
+ipykernel
+nbconvert
